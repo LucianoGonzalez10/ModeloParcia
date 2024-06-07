@@ -1,0 +1,178 @@
+[ {
+  "nombre" : "Andres",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Andru",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Carlos",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Dami",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Diego",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Diego",
+  "apellido" : "Maradona",
+  "edad" : 50,
+  "sistemaJuego" : "Defensivo",
+  "estilo" : "Tranquilo"
+}, {
+  "nombre" : "Enzo",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Goku",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Hugo",
+  "apellido" : "Cayetano",
+  "edad" : 12,
+  "metodologia" : null
+}, {
+  "nombre" : "Jose",
+  "apellido" : "Luis",
+  "edad" : 30,
+  "titulo" : "Masajista",
+  "aniosExp" : 10
+}, {
+  "nombre" : "Jose",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Juan",
+  "apellido" : "Luis",
+  "edad" : 30,
+  "titulo" : "Masajista",
+  "aniosExp" : 10
+}, {
+  "nombre" : "Kun",
+  "apellido" : "Aguero",
+  "edad" : 30,
+  "puesto" : "Defensa",
+  "camiseta" : 11
+}, {
+  "nombre" : "Lionel",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Luchito",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Lucho",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Lupo",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Maranga",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Marangoni",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Mateo",
+  "apellido" : "Ma",
+  "edad" : 24,
+  "puesto" : "Mediocampista",
+  "camiseta" : 5
+}, {
+  "nombre" : "Pedro",
+  "apellido" : "Cayetano",
+  "edad" : 12,
+  "metodologia" : null
+}, {
+  "nombre" : "Romi",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Roque",
+  "apellido" : "Cayetano",
+  "edad" : 22,
+  "metodologia" : null
+}, {
+  "nombre" : "Seba",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Sofi",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Testa",
+  "apellido" : "Luis",
+  "edad" : 30,
+  "titulo" : "Masajista",
+  "aniosExp" : 10
+}, {
+  "nombre" : "Vale",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Valen",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Vanoli",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+}, {
+  "nombre" : "Vegeta",
+  "apellido" : "Messi",
+  "edad" : 34,
+  "puesto" : "Delantero",
+  "camiseta" : 10
+} ]
